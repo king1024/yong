@@ -1,0 +1,17 @@
+
+https://pan.baidu.com/s/1pLaBSyn
+
+git config --global user.name "braveboyhaha"
+
+git config --global user.name "king1024"
+
+git config --global user.email "412207397@qq.com"
+
+GitHub：Signed in as king1024
+
+echo“＃yong”>> README.md 
+git init 
+git add README.md 
+git commit -m“第一次提交” 
+git remote add origin https://github.com/king1024/yong.git
+git push -u origin master
